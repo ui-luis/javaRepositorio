@@ -9,5 +9,12 @@ public class Primario {
         int age = obj.nextInt();
         int roomNumber = obj.nextInt();
 
+        Terciario terciario = new Terciario();
+        terciario.setName(name);
+        terciario.setAge(age);
+        terciario.setRooNumber(roomNumber);
+        terciario.mostrarDatos();
+
+
     }
 }
