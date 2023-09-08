@@ -11,7 +11,7 @@ public class Terciario {
     public void setAge(int age){ this.age = age;}
     public int getAge(){return age;}
 
-    public void setRooNumber(int roomNumber){this.roomNumber = roomNumber;}
+    public void setRoomNumber(int roomNumber){this.roomNumber = roomNumber;}
     public int getRoomNumber(){return roomNumber;}
 
     public void mostrarDatos(){

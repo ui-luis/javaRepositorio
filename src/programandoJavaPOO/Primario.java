@@ -12,7 +12,7 @@ public class Primario {
         Terciario terciario = new Terciario();
         terciario.setName(name);
         terciario.setAge(age);
-        terciario.setRooNumber(roomNumber);
+        terciario.setRoomNumber(roomNumber);
         terciario.mostrarDatos();
 
 
