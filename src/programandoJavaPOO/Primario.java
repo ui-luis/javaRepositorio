@@ -9,7 +9,7 @@ public class Primario {
         int age = obj.nextInt();
         int roomNumber = obj.nextInt();
 
-<<<<<<< HEAD
+
         Secundario secundario = new Secundario(0.1f,200);
         System.out.println("La velocidad Inicial es :"+secundario.velocidadInicial);
         secundario.acelerar();
@@ -21,13 +21,13 @@ public class Primario {
         secundario.setMarca("Suzuki");
         System.out.println("La Marca del Vehiculo es :"+secundario.getMarca());
 
-=======
+
         Terciario terciario = new Terciario();
         terciario.setName(name);
         terciario.setAge(age);
         terciario.setRoomNumber(roomNumber);
         terciario.mostrarDatos();
->>>>>>> version_3
+
 
 
     }
