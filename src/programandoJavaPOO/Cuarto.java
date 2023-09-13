@@ -1,5 +1,7 @@
 package programandoJavaPOO;
 
+import java.util.Scanner;
+
 public class Cuarto {
 
         System.out.println("El nombre es");
