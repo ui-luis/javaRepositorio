@@ -31,7 +31,7 @@ public class Secundario {
     }
 
     public void acelerar(){
-        velocidadInicial +=15.2;
+        velocidadInicial += 15.2;
     }
 
 }

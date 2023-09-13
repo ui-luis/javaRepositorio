@@ -13,15 +13,15 @@ public class SegundarioMain {
 
         student.setAge(age);
         int edad = student.getAge();
-        //set the age via Setter
-        if( edad < 0){
-            System.out.println("Invalid age");
-            System.out.println("Name: " + student.name);
 
-            System.out.println("Age: " +0);
+        if( edad < 0){
+            System.out.println(" Invalid age ");
+            System.out.println("Name : " + student.name);
+
+            System.out.println("Age : " +0);
         }else{
-            System.out.println("Name: " + student.name);
-            System.out.println("Age: " +edad);
+            System.out.println("Name : " + student.name);
+            System.out.println("Age : " +edad);
         }
 
 
