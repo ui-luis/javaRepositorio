@@ -5,8 +5,11 @@ import java.util.Scanner;
 public class Primario {
     public static void main(String[] args) {
         Scanner obj = new Scanner(System.in);
+        System.out.println("Dijite Nombre : ");
         String name = obj.nextLine();
+        System.out.println("Dijite Edad : ");
         int age = obj.nextInt();
+        System.out.println("Dijite Numero de Habitaciones : ");
         int roomNumber = obj.nextInt();
 
         Terciario terciario = new Terciario();
@@ -28,7 +31,8 @@ public class Primario {
         System.out.println("La Marca del Vehiculo es :"+secundario.getMarca());
 
 
-
+        Saludar saludar = new Saludar();
+        saludar.mostrarSaludo();
 
 
 
