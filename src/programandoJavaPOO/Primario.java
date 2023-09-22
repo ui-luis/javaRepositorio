@@ -16,6 +16,7 @@ public class Primario {
         terciario.mostrarDatos();
 
         Secundario secundario = new Secundario(0.1f,200);
+         System.out.println("---TITULO DE LA TIENDA DE VEHICULOS----");
         System.out.println("La velocidad Inicial es :"+secundario.velocidadInicial);
         secundario.acelerar();
         System.out.println("Se acelero hasta :"+secundario.velocidadInicial);
