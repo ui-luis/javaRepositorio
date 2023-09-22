@@ -15,6 +15,7 @@ public class Terciario {
     public int getRoomNumber(){return roomNumber;}
 
     public void mostrarDatos(){
+        System.out.println("----TITULO DE AQUI VAN LOS NOMBRES DEL USUARIO----");
         System.out.println("El nombre es : "+getName());
         System.out.println("La edad es : "+getAge() +" Años");
         System.out.println("El numero de Habitacion es : "+" # "+getRoomNumber());
