@@ -6,6 +6,8 @@ public class Primario {
     public static void main(String[] args) {
         Scanner obj = new Scanner(System.in);
         System.out.println("---- DATOS DEL USUARIO ----");
+        System.out.println("---- DATOS DEL USUARIO ----");
+        System.out.println("---- DATOS DEL USUARIO ----");
         System.out.println("Dijite Nombre : ");
         String name = obj.nextLine();
         System.out.println("Dijite Edad : ");
