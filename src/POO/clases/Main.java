@@ -21,6 +21,9 @@ public class Main {
         Coche coche2 = new Coche();
         System.out.println(coche2.velocidadActual);*/
 
+         SaludarPorSegundaVez saludar = new SaludarPorSegundaVez();
+        saludar.mostrarSaludo();
+
     }
 }
 
