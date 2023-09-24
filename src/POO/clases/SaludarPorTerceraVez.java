@@ -1,6 +1,6 @@
 package programandoJavaPOO;
 
-public class SaludarPorCuaraVez {
+public class SaludarPorTerceraVez {
     public void mostrarSaludo(){
         System.out.println("Goog EveryOne cuarta vez.........");
        
