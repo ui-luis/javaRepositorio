@@ -2,7 +2,7 @@ package POO.clases;
 
 public class SaludarPorCuartaVez {
     public void mostrarSaludo(){
-        System.out.println("Goog EveryOne Tercera Vez.........");
+        System.out.println("Saludar por Cuarta Vez.........");
         
        
     }
