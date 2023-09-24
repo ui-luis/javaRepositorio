@@ -1,4 +1,4 @@
-package programandoJavaPOO;
+package POO.clases;
 
 public class SaludarPorSegundoVez {
     public void mostrarSaludo(){
